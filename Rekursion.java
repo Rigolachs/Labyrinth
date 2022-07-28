@@ -53,7 +53,6 @@ public class Rekursion {
      * @param r integer row
      * @param feedback Gibt Rueckschluesse auf die Operationen
      * @return boolean ist wahr, wenn Labyrinth loesbar
-
      */
     public static boolean labyrinth(int c, int r, String feedback) {
         char position = feld[c].charAt(r); // Zwischenspeichern
