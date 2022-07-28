@@ -1,5 +1,3 @@
-package aufgabe5;
-
 import java.io.*;
 import java.util.Scanner;
 
