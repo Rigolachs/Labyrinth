@@ -90,9 +90,7 @@ public class Rekursion {
      * @param args unbenutzt
      */
     public static void main(String[] args) {
-
-        int zeilen = 0;
-        
+        int zeilen = 0;        
         try {
         	FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\labyrinth.txt");
             Scanner s = new Scanner(file);
