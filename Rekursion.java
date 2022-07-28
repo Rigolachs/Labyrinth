@@ -111,7 +111,6 @@ public class Rekursion {
                     labyrinthSetzen(cS, rS, ' ');
                     System.out.println((labyrinth(cS, rS, "Loese labyrinth")) 
                             ? "Ziel Erreicht!" : "Keinen Weg gefunden!");
-
                 }
             }
         }
